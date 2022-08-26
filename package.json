@@ -1,0 +1,11 @@
+{
+  "name": "monserver",
+  "version": "1.0.0",
+  "description": "Demo Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas",
+  "license": "ISC"
+}
